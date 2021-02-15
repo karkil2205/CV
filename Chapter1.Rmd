@@ -1,27 +1,105 @@
 ---
-title: "Introduction to R and RStudio"
+title: "Examen de Juin 2021"
 output:
-  pdf_document:
+  html_document:
     toc: yes
+    df_print: paged
   html_notebook:
     toc: yes
   word_document:
     toc: yes
-  html_document:
+  pdf_document:
     toc: yes
-    df_print: paged
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+# Calculs élémentaires
 
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
 
 ```{r}
-plot(cars)
+1+1
+23*786
+log(10)
+log10(10)
+```
+# Les variables
+
+
+```{r}
+x<-2 # Affectation je mets 2 dans la variable x
+x # Je demande d'afficher x
+x<-5  # Affectation je mets 5 dans la variable x
+x   # Je demande d'afficher x
+x^2
+
 ```
 
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+# Les listes dans R
 
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+```{r}
+l1<-c(1,7,89)
+l2<-c(12,-7,18)
+l1+l2 # somme de deux listes
+l1*l2 # produit de deux listes
+100+l1
+100+3*l1
+l3<-c(2,6,8,9)
+sum(1:100) # somme des n premiers entiers
+100*101/2 # somme des n premiers entiers avec la formule
+sum((1:100)^2)          # somme des n premiers carrés
+100*101*201/6                # somme des n premiers carrés avec la formule
+```
 
-The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+  
+# Ecrire des formules mathématiques
+  
+On peut écrire avec le language LATEX
+
+$$
+\sum_{i=1}^{n}i=1+2+\cdots+n=\frac{n(n+1)}{2}
+$$  
+  
+  
+
+$$
+\sum_{i=1}^{n}i^2=1^2+2^2+\cdots+n^2=\frac{n(n+1)(2n+1)}{6}
+$$  
+# Installer et appeler un package 
+
+```{r}
+library("AER")
+data("Journals",package="AER")
+
+dim(Journals)
+
+
+```
+# Renommer des variables
+
+```{r}
+names(Journals)[1:5]
+
+names(Journals)[names(Journals)=="title"]<-c("Titre")
+names(Journals)[8]<-c("Année de création")
+names(Journals)
+names(Journals)[names(Journals)=="subs"]<-c("Abonnements")
+names(Journals)[c(2,4,10)]<-c("Editeur","Prix","Domaine")
+Journals$Titre
+Journals[,1]
+Journals[60,1]
+
+```
+
+
+
+```{r}
+data("Journals",package="AER")
+
+plot(log(subs)~log(price/citations),data=Journals,main="Demand for Journals",col="red")
+
+
+```
+
+
+
+
+
