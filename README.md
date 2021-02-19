@@ -54,7 +54,7 @@
 7.  Notions de calcul matriciel.
 8.  Régression linéaire multiple.
 9.  Tests d’hypoyhèses et intervalles de confiance (régression multiple)
-10.  Modles logit/Probit, Nested logit
+10.  Modèles logit/Probit, Nested logit
 
 ### Mode d’évaluation
 
@@ -67,7 +67,7 @@
 
 
 
-## Les Notebooks
+## Installation de RStudio
 * Ce premier chapitre est une introduction à la programmation avec **R**.
 * Cette <a href="Applied_Econometrics_with_R.pdf"><strong>présentation</strong></a></span> a été intégralement réalisée avec <a href="https://rmarkdownwww.rstudio.com/lesson-10.html">R Notebook</a> de **RStudio**.
 * J'ai repris les codes du livre <a href="Applied econometrics with R_Christian Kleiber_Achim Zeileis.pdf"><strong>KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008.</strong></a></span>
@@ -80,7 +80,7 @@
 * Pour en savoir plus sur l'histoire de **ggplot2** allez **<a href="https://en.m.wikipedia.org/wiki/Ggplot2"><strong>Ici</strong></a></span>**.
 
 
-## Guide pour installer RStudio
+### Guide pour installer RStudio
 
 * Il faut d'abord installer **R**.
 * Sous **Windows** <a href="http://cran.r-project.org/bin/windows/base/" class="uri">http://cran.r-project.org/bin/windows/base/</a></li>
@@ -90,7 +90,7 @@
 * **R** doit être installé.
 * Aller à : <a href="http://.rstudio.com/products/rstudio/download/" class="uri">http://www.rstudio.com/products/rstudio/download/</a>  </li>
 
-## Rstudio dans le Cloud
+### Rstudio dans le Cloud
 * Vous avez aussi la possibilité de lancer <strong>RStudio</strong> dans le cloud.
 * Aucune installation préalable n'est nécessaire.
 * J'ai adopté cette solution pour plus de mobilité.
@@ -98,5 +98,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5ODc5ODZdfQ==
+eyJoaXN0b3J5IjpbMzQ0NzQ4NDExXX0=
 -->
