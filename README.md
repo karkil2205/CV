@@ -81,8 +81,8 @@
 * Un **Notebook** est un document qui combine **R** et [**Markdown**]("https://fr.m.wikipedia.org/wiki/Markdown").
 * Il y a des bouts de textes explicatifs écrits en Mardown.
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
-* Il s'agît de [Programmation lettrée]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [**Donald Knuth**]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
-* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : **<a href="ggplot2- Elegant Graphics for Data Analysis.pdf"><strong>WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009.</strong>
+* Il s'agît de [**Programmation lettrée**]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [**Donald Knuth**]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
+* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : [WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009]("ggplot2- Elegant Graphics for Data Analysis.pdf").
 * Pour en savoir plus sur l'histoire de **ggplot2** allez **<a href="https://en.m.wikipedia.org/wiki/Ggplot2"><strong>Ici</strong></a></span>**.
 
 
@@ -104,5 +104,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTcwODg1MiwxNDg4NDMzMzU3XX0=
+eyJoaXN0b3J5IjpbODU2NDU4MzMsMTQ4ODQzMzM1N119
 -->
