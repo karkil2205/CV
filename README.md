@@ -11,7 +11,24 @@
 * Pour en savoir plus sur l'histoire de **ggplot2** allez **<a href="https://en.m.wikipedia.org/wiki/Ggplot2"><strong>Ici</strong></a></span>**.
 
 
-
-
+# Installation de R
+ * Sous **Windows** <a href="http://cran.r-project.org/bin/windows/base/" class="uri">http://cran.r-project.org/bin/windows/base/</a></li>
+ * Pour **Mac OS X** <a href="http://cran.r-project.org/bin/macosx/" class="uri">http://cran.r-project.org/bin/macosx/</a>.</li>
+ * Installation de RStudio.
+</div>
+<div id="installation-de-rstudio" class="section level2">
+<ul>
+<li><strong>RStudio</strong> est une version plus conviviale et élaborée de  <strong>R</strong>. </li>
+<li><strong>R</strong> doit être installé.</li>
+<li>Aller à : <a href="http://www.rstudio.com/products/rstudio/download/" class="uri">http://www.rstudio.com/products/rstudio/download/</a>  </li>
+</ul>
+<h3>Rstudio dans le Cloud</h3>
+<ul>
+<li>Vous avez aussi la possibilité de lancer <strong>RStudio</strong> dans le cloud.</li>
+<li>Aucune installation préalable n'est nécessaire .</li>
+<li> J'ai adopté cette solution pour plus de mobilité. </li>
+<li>Cliquez sur ce lien <a href="https://rstudio.cloud/projects" target="_blank">rstudio.cloud</a> pour créer votre compte personnel sur cette plateforme.</li>
+</ul>
+</div>
 
 
