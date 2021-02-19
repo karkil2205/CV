@@ -7,7 +7,7 @@
 * Il y a des bouts de textes explicatifs écrits en Mardown.
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
 * Il s'agît de  <a href="https://fr.m.wikipedia.org/wiki/Programmation_lettrée">programmation </a><span><a href="https://fr.m.wikipedia.org/wiki/Programmation_lettrée">lettrée</a> (*Literate Programming*) <span>initiée par </span><a href="https://fr.m.wikipedia.org/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a>.
-* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture avec ggplot2 : **<a href="KKK"><strong>KKK</strong></a></span>** 
+* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture avec **<a href="https://en.m.wikipedia.org/wiki/Ggplot2"><strong>ggplot2</strong></a></span>** : **<a href="KKK"><strong>KKK</strong></a></span>** 
 
 
-https://en.m.wikipedia.org/wiki/Ggplot2
+
