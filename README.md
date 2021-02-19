@@ -1,6 +1,5 @@
 # ESD109-Chapter1
-Vous trouverez tous les programmes et les fichiers de ce chapitre
-<ul>
+Vous trouverez tous les programmes et les fichiers de ce chapitre.
 <li>La pésentation a été intégralement réalisée avec <a href="https://www.rstudio.com/resources/webinars/introducing-notebooks-with-r-markdown/">R Notebook</a> de <strong>RStudio</strong>.</li>
 <li><span>C'est un document qui combine <strong>R</strong> et <a href="https://fr.m.wikipedia.org/wiki/Markdown"><strong>Markdown</strong></a>.</span></li>
 <li>Il y a des bouts de textes explicatifs.</li>
