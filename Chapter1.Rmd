@@ -1,14 +1,14 @@
 ---
 title: "Examen de Juin 2021"
 output:
-  html_notebook:
+  pdf_document:
     toc: yes
   html_document:
     toc: yes
     df_print: paged
   word_document:
     toc: yes
-  pdf_document:
+  html_notebook:
     toc: yes
 ---
 
