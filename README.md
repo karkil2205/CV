@@ -1,7 +1,7 @@
 # ESD109-Chapter1
 ## Les Notebooks
 * Ce premier chapitre est une introduction à la programmation avec **R**.
-* Cette <a href="Applied_Econometrics_with_R.pdf"><strong>présentation</strong></a></span> a été intégralement réalisée avec <a href="https://rmarkdown.rstudio.com/lesson-10.html">R Notebook</a> de **RStudio**.
+* Cette <a href="Applied_Econometrics_with_R.pdf"><strong>présentation</strong></a></span> a été intégralement réalisée avec <a href="https://rmarkdownwww.rstudio.com/lesson-10.html">R Notebook</a> de **RStudio**.
 * J'ai repris les codes du livre <a href="Applied econometrics with R_Christian Kleiber_Achim Zeileis.pdf"><strong>KLEIBER, Christian et ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008.</strong></a></span>
 * Vous pouvez vous en inspirer pour vos propres rendus.
 * C'est un document qui combine **R** et <a href="https://fr.m.wikipedia.org/wiki/Markdown"><strong>Markdown</strong></a>.</span>
@@ -20,7 +20,7 @@
 * Installation de RStudio.
 * **RStudio** est une version plus conviviale et élaborée de  **R**.
 * **R** doit être installé.
-* Aller à : <a href="http://www.rstudio.com/products/rstudio/download/" class="uri">http://www.rstudio.com/products/rstudio/download/</a>  </li>
+* Aller à : <a href="http://.rstudio.com/products/rstudio/download/" class="uri">http://www.rstudio.com/products/rstudio/download/</a>  </li>
 
 ## Rstudio dans le Cloud
 * Vous avez aussi la possibilité de lancer <strong>RStudio</strong> dans le cloud.
@@ -29,3 +29,6 @@
 * Cliquez sur ce lien <a href="https://rstudio.cloud/projects" target="_blank">rstudio.cloud</a> pour créer votre compte personnel sur cette plateforme.
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM5OTkxNjU4NF19
+-->
