@@ -1,6 +1,6 @@
 # ESD109-Chapter1
 * Ce premier chapitre est une introduction à la programmation avec **R**.
-* La pésentation <a href="Applied_Econometrics_with_R.pdf"><strong>Markdown</strong></a>.</span>
+* La pésentation <a href="Applied_Econometrics_with_R.pdf"><strong>Ici</strong></a>.</span>
 * 
 *  
 *   
