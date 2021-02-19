@@ -1,10 +1,79 @@
 # ESD109-Chapter1
+
+##  Objectifs du cours
+
+-   L’intelligence économique consiste à collecter des données et à les analyser.
+-   L’analyste veut extraire de l'information des données.
+-   Il utilise pour cela des modèles.
+-   Il identife des causalités existantes entre les facteurs.
+-   Il recherche des relations entre les variables.
+-   Objectif majeur de l’économétrie : identifier des causalités.
+-   Le modèle de base est le modèle linéaire.
+-   Ses soubassements théoriques seront explicités.
+-   L’estimation des modèles nécessite l’utilisation de logiciels statistiques.
+-   Cette utilisation est rendue accessible grâce à  [**R**](https://www.r-project.org/).
+-   Ses  _packages_ en font la référence des chercheurs/consultants.
+-   Il concurrence les standards tels **[SAS](https://www.sas.com/en_us/home.html)** ou [**SPSS**](https://www.ibm.com/analytics/spss-statistics-software).
+-   **R**  sera exclusivement utilisé dans ce cours.
+
+### Public et conditions d’accès
+
+-   Ce cours s’adresse aux candidats inscrits en :
+
+1.  Certificat de spécialisation ”Analyse Statégique de la Concurrence : Principes et Applications”.
+2.  Master ASIF M1 (cours obligatoire).
+
+-   Il est recommandé d’avoir une formation de base.
+-   Niveau EAR005 en statistiques.
+-   Niveau EAR006 en mathématiques.
+
+### Objectifs pédagogiques
+
+-   Les étudiants doivent s’investir dans la maîtrise des probabilités.
+-   Connaître les principales lois (Normale, Student, Fisher, etc.).
+-   Elles sont indispensables à la compréhension de ce cours.
+-   Le langage des matrices (vecteur, transposée, inverse, etc.) doit être acquis.
+-   Il permet la manipulation des régressions au sein du modèle linéaire mutidimensionnel.
+-   Un grand nombre d’exercices du manuel (Wooldridge) doit être réalisé.
+
+### Compétences visées
+
+-   Vous saurez formuler un modèle linéaire.
+-   Estimer ses paramètres.
+-   Interpréter les résultats.
+-   L’utilisation de données pratiques durant le cours et l’usage intensif du logiciel **R**  leur donnera la possibilté de réaliser plus tard, dans le cadre de leur milieu professionnel, des analyses du même type.
+
+###   
+Contenu
+
+1.  Rappels de statistiques.
+2.  Rappels de probabilités.
+3.  Distributions d’échantillonnage.
+4.  Inférence statistique sur une moyenne, une variance, etc.
+5.  Régression linéaire simple et méthode des moindres carrés ordinaires.
+6.  Tests d’hypoyhèses et intervalles de confiance (régression simple).
+7.  Notions de calcul matriciel.
+8.  Régression linéaire multiple.
+9.  Tests d’hypoyhèses et intervalles de confiance (régression multiple)
+10.  Modles logit/Probit, Nested logit
+
+### Mode d’évaluation
+
+-   Examen oral d’une durée de 2h30 et rapports rendre.
+
+### Bibliographie
+
+-   Jeffrey M. Wooldridge, Introductory Econometrics: A Modern Approach, 4th, Mason, Ohio: South-Western Cengage Learning. Edition fran¸caise Introduction à l’économétrie : Une approche moderne. De Boeck.
+-   Christian Kleiber, Applied Econometrics with R (Use R!), Springer.
+
+
+
 ## Les Notebooks
 * Ce premier chapitre est une introduction à la programmation avec **R**.
 * Cette <a href="Applied_Econometrics_with_R.pdf"><strong>présentation</strong></a></span> a été intégralement réalisée avec <a href="https://rmarkdownwww.rstudio.com/lesson-10.html">R Notebook</a> de **RStudio**.
 * J'ai repris les codes du livre <a href="Applied econometrics with R_Christian Kleiber_Achim Zeileis.pdf"><strong>KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008.</strong></a></span>
 * Vous pouvez vous en inspirer pour vos propres **Notebooks**.
-* Un Notebook C'est un document qui combine **R** et <a href="https://fr.m.wikipedia.org/wiki/Markdown"><strong>Markdown</strong></a>.</span>
+* Un **Notebook** est un document qui combine **R** et <a href="https://fr.m.wikipedia.org/wiki/Markdown"><strong>Markdown</strong></a>.</span>
 * Il y a des bouts de textes explicatifs écrits en Mardown.
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
 * Il s'agît de  <a href="https://fr.m.wikipedia.org/wiki/Programmation_lettrée">programmation </a><span><a href="https://fr.m.wikipedia.org/wiki/Programmation_lettrée">lettrée</a> (*Literate Programming*) <span>initiée par </span><a href="https://fr.m.wikipedia.org/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a>.
@@ -30,5 +99,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjU5NjcwMF19
+eyJoaXN0b3J5IjpbLTEzMjA0NTEwODBdfQ==
 -->
