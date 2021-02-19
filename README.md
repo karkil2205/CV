@@ -66,7 +66,6 @@
 -   Christian Kleiber, Applied Econometrics with R (Use R!), Springer.
 
 
-
 ## Installation de RStudio
 * Ce premier chapitre est une introduction à la programmation avec **R**.
 * Cette <a href="Applied_Econometrics_with_R.pdf"><strong>présentation</strong></a></span> a été intégralement réalisée avec <a href="https://rmarkdownwww.rstudio.com/lesson-10.html">R Notebook</a> de **RStudio**.
@@ -98,5 +97,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0NzQ4NDExXX0=
+eyJoaXN0b3J5IjpbMTQ4ODQzMzM1N119
 -->
