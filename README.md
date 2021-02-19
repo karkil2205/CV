@@ -18,17 +18,14 @@
 * Sous **Windows** <a href="http://cran.r-project.org/bin/windows/base/" class="uri">http://cran.r-project.org/bin/windows/base/</a></li>
 * Pour **Mac OS X** <a href="http://cran.r-project.org/bin/macosx/" class="uri">http://cran.r-project.org/bin/macosx/</a>.</li>
 * Installation de RStudio.
-**RStudio** est une version plus conviviale et élaborée de  **R**.
-<li><strong>R</strong> doit être installé.</li>
-<li>Aller à : <a href="http://www.rstudio.com/products/rstudio/download/" class="uri">http://www.rstudio.com/products/rstudio/download/</a>  </li>
-</ul>
-<h3>Rstudio dans le Cloud</h3>
-<ul>
-<li>Vous avez aussi la possibilité de lancer <strong>RStudio</strong> dans le cloud.</li>
-<li>Aucune installation préalable n'est nécessaire .</li>
-<li> J'ai adopté cette solution pour plus de mobilité. </li>
-<li>Cliquez sur ce lien <a href="https://rstudio.cloud/projects" target="_blank">rstudio.cloud</a> pour créer votre compte personnel sur cette plateforme.</li>
-</ul>
-</div>
+* **RStudio** est une version plus conviviale et élaborée de  **R**.
+* **R** doit être installé.
+* Aller à : <a href="http://www.rstudio.com/products/rstudio/download/" class="uri">http://www.rstudio.com/products/rstudio/download/</a>  </li>
+
+## Rstudio dans le Cloud
+* Vous avez aussi la possibilité de lancer <strong>RStudio</strong> dans le cloud.
+* Aucune installation préalable n'est nécessaire.
+* J'ai adopté cette solution pour plus de mobilité.
+* Cliquez sur ce lien <a href="https://rstudio.cloud/projects" target="_blank">rstudio.cloud</a> pour créer votre compte personnel sur cette plateforme.
 
 
