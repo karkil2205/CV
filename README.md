@@ -21,7 +21,7 @@
 -   L’estimation des modèles nécessite l’utilisation de logiciels statistiques.
 -   Cette utilisation est rendue accessible grâce à  [**R**](https://www.r-project.org/).
 -   Ses  _packages_ en font la référence des chercheurs/consultants.
--   Il concurrence les standards tels **[SAS](https://www.sas.com/en_us/home.html)** ou [**SPSS**](https://www.ibm.com/analytics/spss-statistics-software).
+-   Il concurrence les standards tels [**SAS**](https://www.sas.com/en_us/home.html) ou [**SPSS**](https://www.ibm.com/analytics/spss-statistics-software).
 -   **R**  sera exclusivement utilisé dans ce cours.
 
 ### Public et conditions d’accès
@@ -62,7 +62,6 @@
 7.  Notions de calcul matriciel.
 8.  Régression linéaire multiple.
 9.  Tests d’hypoyhèses et intervalles de confiance (régression multiple)
-10.  Modèles logit/Probit, Nested logit
 
 ### Mode d’évaluation
 
@@ -105,5 +104,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTEyNzg3NDQsMTQ4ODQzMzM1N119
+eyJoaXN0b3J5IjpbLTEzMjI0NzAyMjcsMTQ4ODQzMzM1N119
 -->
