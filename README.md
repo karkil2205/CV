@@ -43,8 +43,7 @@
 -   Interpréter les résultats.
 -   L’utilisation de données pratiques durant le cours et l’usage intensif du logiciel **R**  leur donnera la possibilté de réaliser plus tard, dans le cadre de leur milieu professionnel, des analyses du même type.
 
-###   
-Contenu
+###   Contenu
 
 1.  Rappels de statistiques.
 2.  Rappels de probabilités.
@@ -59,7 +58,7 @@ Contenu
 
 ### Mode d’évaluation
 
--   Examen oral d’une durée de 2h30 et rapports rendre.
+-   Examen écrit d’une durée de 3h00 et des devoirs.
 
 ### Bibliographie
 
@@ -99,5 +98,5 @@ Contenu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA0NTEwODBdfQ==
+eyJoaXN0b3J5IjpbMjU5ODc5ODZdfQ==
 -->
