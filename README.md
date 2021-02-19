@@ -1,7 +1,7 @@
 # ESD109-Chapter1
 * Ce premier chapitre est une introduction à la programmation avec **R**.
 * Cette <a href="Applied_Econometrics_with_R.pdf"><strong>présentation</strong></a></span> a été intégralement réalisée avec <a href="https://rmarkdown.rstudio.com/lesson-10.html">R Notebook</a> de **RStudio**.
-* J'ai repris les codes du livre <a href="Applied econometrics with R_Christian Kleiber_Achim Zeileis.pdf"><strong>KKK</strong></a></span>
+* J'ai repris les codes du livre <a href="Applied econometrics with R_Christian Kleiber_Achim Zeileis.pdf"><strong>KLEIBER, Christian et ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008.</strong></a></span>
 * Vous pouvez vous en inspirer pour vos propres rendus.
 * C'est un document qui combine **R** et <a href="https://fr.m.wikipedia.org/wiki/Markdown"><strong>Markdown</strong></a>.</span>
 * Il y a des bouts de textes explicatifs écrits en Mardown.
