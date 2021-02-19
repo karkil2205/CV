@@ -90,11 +90,11 @@
 
 * Il faut d'abord installer **R**.
 * Sous **Windows** ("http://cran.r-project.org/bin/windows/base/").
-* Pour **Mac OS X** <a href="http://cran.r-project.org/bin/macosx/" class="uri">http://cran.r-project.org/bin/macosx/</a>.</li>
+* Pour **Mac OS X** ("http://cran.r-project.org/bin/macosx/).
 * Installation de RStudio.
 * **RStudio** est une version plus conviviale et élaborée de  **R**.
 * **R** doit être installé.
-* Aller à : <a href="http://.rstudio.com/products/rstudio/download/" class="uri">http://www.rstudio.com/products/rstudio/download/</a>  </li>
+* Aller à : ("http://.rstudio.com/products/rstudio/download/"). class="uri">http://www.rstudio.com/products/rstudio/download/</a>  </li>
 
 ### Rstudio dans le Cloud
 * Vous avez aussi la possibilité de lancer <strong>RStudio</strong> dans le cloud.
@@ -104,6 +104,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY5MzEwMzEsODU2NDU4MzMsMTQ4OD
+eyJoaXN0b3J5IjpbLTEzODE0NDEzOTcsODU2NDU4MzMsMTQ4OD
 QzMzM1N119
 -->
