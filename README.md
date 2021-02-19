@@ -6,3 +6,6 @@ Vous trouverez tous les programmes et les fichiers de ce chapitre.
 <li>Des bouts de programmes (chunks) exécutables séquentiellement.</li>
 <li><span><span>Il s'agît de  <a href="https://fr.m.wikipedia.org/wiki/Programmation_lettrée">programmation </a><span><a href="https://fr.m.wikipedia.org/wiki/Programmation_lettrée">lettrée</a> (Literate Programming</span></span></span><span><span>) <span>initiée par </span><a href="https://fr.m.wikipedia.org/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a>.</span></span></li>
 </ul>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTMyMzM4NDM4M119
+-->
