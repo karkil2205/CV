@@ -82,14 +82,14 @@
 * Il y a des bouts de textes explicatifs écrits en Mardown.
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
 * Il s'agît de [**Programmation lettrée**]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [**Donald Knuth**]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
-* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : [WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009]("KKK").
-* Pour en savoir plus sur l'histoire de **ggplot2** allez **<a href="https://en.m.wikipedia.org/wiki/Ggplot2"><strong>Ici</strong></a></span>**.
+* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : [**WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009**]("KKK").
+* Pour en savoir plus sur l'histoire de **ggplot2** allez [**Ici**]("https://en.m.wikipedia.org/wiki/Ggplot2").
 
 
 ### Guide pour installer RStudio
 
 * Il faut d'abord installer **R**.
-* Sous **Windows** <a href="http://cran.r-project.org/bin/windows/base/" class="uri">http://cran.r-project.org/bin/windows/base/</a></li>
+* Sous **Windows** ("http://cran.r-project.org/bin/windows/base/").
 * Pour **Mac OS X** <a href="http://cran.r-project.org/bin/macosx/" class="uri">http://cran.r-project.org/bin/macosx/</a>.</li>
 * Installation de RStudio.
 * **RStudio** est une version plus conviviale et élaborée de  **R**.
@@ -104,6 +104,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIyMzg4MjEsODU2NDU4MzMsMTQ4OD
+eyJoaXN0b3J5IjpbLTE5MTY5MzEwMzEsODU2NDU4MzMsMTQ4OD
 QzMzM1N119
 -->
