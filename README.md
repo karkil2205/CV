@@ -97,13 +97,13 @@
 * Aller à : http://www.rstudio.com/products/rstudio/download/.
 
 ### Rstudio dans le Cloud
-* Vous avez aussi la possibilité de lancer <strong>RStudio</strong> dans le cloud.
+* Vous avez aussi la possibilité de lancer **RStudio** dans le cloud.
 * Aucune installation préalable n'est nécessaire.
 * J'ai adopté cette solution pour plus de mobilité.
-* Cliquez sur ce lien <a href="https://rstudio.cloud/projects" target="_blank">rstudio.cloud</a> pour créer votre compte personnel sur cette plateforme.
+* Cliquez sur ce lien https://rstudio.cloud/projects .
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5ODYyMjE0LDg1NjQ1ODMzLDE0ODg0Mz
+eyJoaXN0b3J5IjpbNDY5NTM2NTE3LDg1NjQ1ODMzLDE0ODg0Mz
 MzNTddfQ==
 -->
