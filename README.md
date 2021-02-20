@@ -84,10 +84,10 @@
 * Il y a des bouts de textes explicatifs écrits en Mardown.
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
 * Il s'agît de [**Programmation lettrée**]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [**Donald Knuth**]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
-* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : <strong><a href="ggplot2- Elegant Graphics for Data Analysis.pdf">WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009</a></strong>
+* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : <strong><a href="ggplot2- Elegant Graphics for Data Analysis.pdf">WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009</a></strong>.
 
-* Pour en savoir plus sur l'histoire de **ggplot2** allez [**Ici**]("https://en.m.wikipedia.org/wiki/Ggplot2").
-
+* Pour en savoir plus sur l'histoire de **ggplot2** allez 
+<strong><a href="https://en.m.wikipedia.org/wiki/Ggplot2">Ici</a></strong>
 
 ### Guide pour installer RStudio
 
@@ -107,7 +107,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQyMTgyNzYsMTA1NDYwMTkxNywtMT
-kyMDg0OTM4Niw0Njk1MzY1MTcsODU2NDU4MzMsMTQ4ODQzMzM1
-N119
+eyJoaXN0b3J5IjpbLTE0MjE0MzkyNTMsLTE3OTQyMTgyNzYsMT
+A1NDYwMTkxNywtMTkyMDg0OTM4Niw0Njk1MzY1MTcsODU2NDU4
+MzMsMTQ4ODQzMzM1N119
 -->
