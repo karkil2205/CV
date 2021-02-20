@@ -23,7 +23,7 @@
 
  [**R**](https://www.r-project.org/).
 -   Ses  _packages_ en font la référence des chercheurs/consultants.
--   Il concurrence les standards tels [SAS](https://www.sas.com/en_us/home.html) ou [SPSS**](https://www.ibm.com/analytics/spss-statistics-software).
+-   Il concurrence les standards tels [SAS](https://www.sas.com/en_us/home.html) ou [SPSS](https://www.ibm.com/analytics/spss-statistics-software).
 -   **R**  sera exclusivement utilisé dans ce cours.
 
 ### Public et conditions d’accès
@@ -108,8 +108,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMxOTI2MDAsMTQwMjgwMzg4MCwyNj
-QwNTk3NTIsLTY3ODk1NDYwNSwxNDkyMTI2MzU5LC05NTIwNjI1
-MjUsLTE3OTQyMTgyNzYsMTA1NDYwMTkxNywtMTkyMDg0OTM4Ni
-w0Njk1MzY1MTcsODU2NDU4MzMsMTQ4ODQzMzM1N119
+eyJoaXN0b3J5IjpbLTc0Njk0MDM3NiwxNDAyODAzODgwLDI2ND
+A1OTc1MiwtNjc4OTU0NjA1LDE0OTIxMjYzNTksLTk1MjA2MjUy
+NSwtMTc5NDIxODI3NiwxMDU0NjAxOTE3LC0xOTIwODQ5Mzg2LD
+Q2OTUzNjUxNyw4NTY0NTgzMywxNDg4NDMzMzU3XX0=
 -->
