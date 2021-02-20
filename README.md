@@ -76,9 +76,7 @@
 ## Installation de RStudio
 * Ce premier chapitre est une introduction à la programmation avec **R**.
 * Cette [présentation](Applied_Econometrics_with_R.pdf) a été intégralement réalisée avec [**R Notebook**]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
-* J'ai repris les codes du livre [KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008]("Applied_econometrics_with_R_Book.pdf").
-
-<strong><a href="Applied_econometrics_with_R_Book.pdf">KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008</a></strong>
+* J'ai repris les codes du livre <strong><a href="Applied_econometrics_with_R_Book.pdf">KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008</a></strong>
 
 
 * Vous pouvez vous en inspirer pour vos propres **Notebooks**.
@@ -87,6 +85,9 @@
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
 * Il s'agît de [**Programmation lettrée**]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [**Donald Knuth**]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
 * Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : [**WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009**]("KKK").
+
+<strong><a href="KKK">WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009</a></strong>
+
 * Pour en savoir plus sur l'histoire de **ggplot2** allez [**Ici**]("https://en.m.wikipedia.org/wiki/Ggplot2").
 
 
@@ -108,7 +109,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTU4NjY5NiwxMDU0NjAxOTE3LC0xOT
+eyJoaXN0b3J5IjpbLTg2MTM1OTg2OCwxMDU0NjAxOTE3LC0xOT
 IwODQ5Mzg2LDQ2OTUzNjUxNyw4NTY0NTgzMywxNDg4NDMzMzU3
 XX0=
 -->
