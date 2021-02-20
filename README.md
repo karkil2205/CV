@@ -77,12 +77,12 @@
 
 ## Installation de RStudio
 * Ce premier chapitre est une introduction à la programmation avec **R**.
-* Cette [présentation](Applied_Econometrics_with_R.pdf) a été intégralement réalisée avec [**R Notebook**]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
+* Cette [présentation](Applied_Econometrics_with_R.pdf) a été intégralement réalisée avec [R Notebook]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
 * J'ai repris les codes du livre [KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008](Applied_econometrics_with_R_Book.pdf)
 
 
 * Vous pouvez vous en inspirer pour vos propres **Notebooks**.
-* Un **Notebook** est un document qui combine **R** et [**Markdown**]("https://fr.m.wikipedia.org/wiki/Markdown").
+* Un **Notebook** est un document qui combine **R** et [Markdown]("https://fr.m.wikipedia.org/wiki/Markdown").
 * Il y a des bouts de textes explicatifs écrits en Mardown.
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
 * Il s'agît de [Programmation lettrée]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [Donald Knuth]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
@@ -108,7 +108,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODIxNjQ4OCwyNjQwNTk3NTIsLTY3OD
+eyJoaXN0b3J5IjpbMTQwMjgwMzg4MCwyNjQwNTk3NTIsLTY3OD
 k1NDYwNSwxNDkyMTI2MzU5LC05NTIwNjI1MjUsLTE3OTQyMTgy
 NzYsMTA1NDYwMTkxNywtMTkyMDg0OTM4Niw0Njk1MzY1MTcsOD
 U2NDU4MzMsMTQ4ODQzMzM1N119
