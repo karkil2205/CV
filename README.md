@@ -86,9 +86,7 @@
 * Il y a des bouts de textes explicatifs écrits en Mardown.
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
 * Il s'agît de [**Programmation lettrée**]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [**Donald Knuth**]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
-* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : <strong><a href="ggplot2- Elegant Graphics for Data Analysis.pdf">WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009</a></strong>.
-* 
-* [WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009](ggplot2.pdf)
+* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : [WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009](ggplot2.pdf).
 
 * Pour en savoir plus sur l'histoire de **ggplot2** allez  <strong><a href="https://en.m.wikipedia.org/wiki/Ggplot2">Ici</a></strong>.
 
@@ -110,7 +108,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODk1NDYwNSwxNDkyMTI2MzU5LC05NT
-IwNjI1MjUsLTE3OTQyMTgyNzYsMTA1NDYwMTkxNywtMTkyMDg0
-OTM4Niw0Njk1MzY1MTcsODU2NDU4MzMsMTQ4ODQzMzM1N119
+eyJoaXN0b3J5IjpbMjA4OTIxNTExOCwtNjc4OTU0NjA1LDE0OT
+IxMjYzNTksLTk1MjA2MjUyNSwtMTc5NDIxODI3NiwxMDU0NjAx
+OTE3LC0xOTIwODQ5Mzg2LDQ2OTUzNjUxNyw4NTY0NTgzMywxND
+g4NDMzMzU3XX0=
 -->
