@@ -83,9 +83,6 @@
 [KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008](Applied_econometrics_with_R_Book.pdf)
 
 
-<strong><a href="Applied_econometrics_with_R_Book.pdf">KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008</a></strong>
-
-
 * Vous pouvez vous en inspirer pour vos propres **Notebooks**.
 * Un **Notebook** est un document qui combine **R** et [**Markdown**]("https://fr.m.wikipedia.org/wiki/Markdown").
 * Il y a des bouts de textes explicatifs écrits en Mardown.
@@ -113,7 +110,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjEyNjM1OSwtOTUyMDYyNTI1LC0xNz
-k0MjE4Mjc2LDEwNTQ2MDE5MTcsLTE5MjA4NDkzODYsNDY5NTM2
-NTE3LDg1NjQ1ODMzLDE0ODg0MzMzNTddfQ==
+eyJoaXN0b3J5IjpbMTgxOTUxODQwMCwxNDkyMTI2MzU5LC05NT
+IwNjI1MjUsLTE3OTQyMTgyNzYsMTA1NDYwMTkxNywtMTkyMDg0
+OTM4Niw0Njk1MzY1MTcsODU2NDU4MzMsMTQ4ODQzMzM1N119
 -->
