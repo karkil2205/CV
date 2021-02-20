@@ -86,8 +86,7 @@
 * Il s'agît de [**Programmation lettrée**]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [**Donald Knuth**]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
 * Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : <strong><a href="ggplot2- Elegant Graphics for Data Analysis.pdf">WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009</a></strong>.
 
-* Pour en savoir plus sur l'histoire de **ggplot2** allez 
-<strong><a href="https://en.m.wikipedia.org/wiki/Ggplot2">Ici</a></strong>
+* Pour en savoir plus sur l'histoire de **ggplot2** allez  <strong><a href="https://en.m.wikipedia.org/wiki/Ggplot2">Ici</a></strong>.
 
 ### Guide pour installer RStudio
 
@@ -107,7 +106,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE0MzkyNTMsLTE3OTQyMTgyNzYsMT
-A1NDYwMTkxNywtMTkyMDg0OTM4Niw0Njk1MzY1MTcsODU2NDU4
-MzMsMTQ4ODQzMzM1N119
+eyJoaXN0b3J5IjpbLTk1MjA2MjUyNSwtMTc5NDIxODI3NiwxMD
+U0NjAxOTE3LC0xOTIwODQ5Mzg2LDQ2OTUzNjUxNyw4NTY0NTgz
+MywxNDg4NDMzMzU3XX0=
 -->
