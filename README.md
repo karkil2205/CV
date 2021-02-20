@@ -19,7 +19,9 @@
 -   Le modèle de base est le modèle linéaire.
 -   Ses soubassements théoriques seront explicités.
 -   L’estimation des modèles nécessite l’utilisation de logiciels statistiques.
--   Cette utilisation est rendue accessible grâce à  [**R**](https://www.r-project.org/).
+-   Cette utilisation est rendue accessible grâce à 
+
+ [**R**](https://www.r-project.org/).
 -   Ses  _packages_ en font la référence des chercheurs/consultants.
 -   Il concurrence les standards tels [**SAS**](https://www.sas.com/en_us/home.html) ou [**SPSS**](https://www.ibm.com/analytics/spss-statistics-software).
 -   **R**  sera exclusivement utilisé dans ce cours.
@@ -76,7 +78,12 @@
 ## Installation de RStudio
 * Ce premier chapitre est une introduction à la programmation avec **R**.
 * Cette [présentation](Applied_Econometrics_with_R.pdf) a été intégralement réalisée avec [**R Notebook**]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
-* J'ai repris les codes du livre <strong><a href="Applied_econometrics_with_R_Book.pdf">KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008</a></strong>
+* J'ai repris les codes du livre 
+
+[KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008](Applied_econometrics_with_R_Book.pdf)
+
+
+<strong><a href="Applied_econometrics_with_R_Book.pdf">KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008</a></strong>
 
 
 * Vous pouvez vous en inspirer pour vos propres **Notebooks**.
@@ -106,7 +113,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjA2MjUyNSwtMTc5NDIxODI3NiwxMD
-U0NjAxOTE3LC0xOTIwODQ5Mzg2LDQ2OTUzNjUxNyw4NTY0NTgz
-MywxNDg4NDMzMzU3XX0=
+eyJoaXN0b3J5IjpbMTQ5MjEyNjM1OSwtOTUyMDYyNTI1LC0xNz
+k0MjE4Mjc2LDEwNTQ2MDE5MTcsLTE5MjA4NDkzODYsNDY5NTM2
+NTE3LDg1NjQ1ODMzLDE0ODg0MzMzNTddfQ==
 -->
