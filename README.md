@@ -87,6 +87,7 @@
 * Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
 * Il s'agît de [**Programmation lettrée**]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [**Donald Knuth**]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
 * Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : <strong><a href="ggplot2- Elegant Graphics for Data Analysis.pdf">WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009</a></strong>.
+[WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009](ggplot2- Elegant Graphics for Data Analysis.pdf)
 
 * Pour en savoir plus sur l'histoire de **ggplot2** allez  <strong><a href="https://en.m.wikipedia.org/wiki/Ggplot2">Ici</a></strong>.
 
@@ -108,7 +109,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODAwNTE2MTIsMTQ5MjEyNjM1OSwtOT
+eyJoaXN0b3J5IjpbLTEyMzgxMTg3NDAsMTQ5MjEyNjM1OSwtOT
 UyMDYyNTI1LC0xNzk0MjE4Mjc2LDEwNTQ2MDE5MTcsLTE5MjA4
 NDkzODYsNDY5NTM2NTE3LDg1NjQ1ODMzLDE0ODg0MzMzNTddfQ
 ==
