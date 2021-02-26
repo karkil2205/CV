@@ -63,10 +63,10 @@
 
 -   Examen écrit d’une durée de 3h00 et des devoirs.
 
-### Bibliographie
+### Eléments bibliographiques
 
 -   Jeffrey M. Wooldridge, Introductory Econometrics: A Modern Approach, 4th, Mason, Ohio: South-Western Cengage Learning. Edition fran¸caise Introduction à l’économétrie : Une approche moderne. De Boeck.
--   Christian Kleiber, Applied Econometrics with R (Use R!), Springer.
+-   KLEIBER, C. & ZEILEIS, A. Applied econometrics with R. Springer Science & Business Media, 2008.
 
 ### Guide pour installer RStudio
 
@@ -87,7 +87,7 @@
 ## Vos premiers pas avec un Notebook 
 * Ce premier chapitre contient une introduction à la programmation avec **R**.
 * Cette [présentation](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_Econometrics_with_R.pdf) a été intégralement réalisée avec [R Notebook]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
-* J'ai repris les codes du livre [KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_econometrics_with_R_Book.pdf)
+* J'ai repris les codes du livre [KLEIBER, C. & ZEILEIS, A. Applied econometrics with R. Springer Science & Business Media, 2008](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_econometrics_with_R_Book.pdf)
 * Vous pouvez vous en inspirer pour vos propres **Notebooks**.
 * Un **Notebook** est un document qui combine **R** et [Markdown]("https://fr.m.wikipedia.org/wiki/Markdown").
 * Il y a des bouts de textes explicatifs écrits en Mardown.
