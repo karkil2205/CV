@@ -68,22 +68,6 @@
 -   Jeffrey M. Wooldridge, Introductory Econometrics: A Modern Approach, 4th, Mason, Ohio: South-Western Cengage Learning. Edition fran¸caise Introduction à l’économétrie : Une approche moderne. De Boeck.
 -   Christian Kleiber, Applied Econometrics with R (Use R!), Springer.
 
-
-## Installation de RStudio
-* Ce premier chapitre est une introduction à la programmation avec **R**.
-* Cette [présentation](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_Econometrics_with_R.pdf) a été intégralement réalisée avec [R Notebook]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
-* J'ai repris les codes du livre [KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_econometrics_with_R_Book.pdf)
-
-
-* Vous pouvez vous en inspirer pour vos propres **Notebooks**.
-* Un **Notebook** est un document qui combine **R** et [Markdown]("https://fr.m.wikipedia.org/wiki/Markdown").
-* Il y a des bouts de textes explicatifs écrits en Mardown.
-* Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
-* Il s'agît de [Programmation lettrée]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [Donald Knuth]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
-* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : [WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009](ggplot2.pdf).
-
-* Pour en savoir plus sur l'histoire de [ggplot2](https://en.m.wikipedia.org/wiki/Ggplot2).
-
 ### Guide pour installer RStudio
 
 * Il faut d'abord installer **R**.
@@ -99,5 +83,18 @@
 * Aucune installation préalable n'est nécessaire.
 * J'ai adopté cette solution pour plus de mobilité.
 * Cliquez sur ce lien https://rstudio.cloud/projects .
+
+## Vos premiers pas avec un Notebook 
+* Ce premier chapitre contient une introduction à la programmation avec **R**.
+* Cette [présentation](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_Econometrics_with_R.pdf) a été intégralement réalisée avec [R Notebook]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
+* J'ai repris les codes du livre [KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_econometrics_with_R_Book.pdf)
+* Vous pouvez vous en inspirer pour vos propres **Notebooks**.
+* Un **Notebook** est un document qui combine **R** et [Markdown]("https://fr.m.wikipedia.org/wiki/Markdown").
+* Il y a des bouts de textes explicatifs écrits en Mardown.
+* Il y a des bouts de programmes (*chunks*) exécutables séquentiellement.
+* Il s'agît de [Programmation lettrée]("https://fr.m.wikipedia.org/wiki/Programmation_lettrée") (*Literate Programming*) <span>initiée par [Donald Knuth]("https://fr.m.wikipedia.org/wiki/Donald_Knuth") .
+* Vous trouverez dans ce manuel tous les outils pour réaliser des graphiques de très haute facture : [WICKHAM, H. ggplot2: Elegant Graphics for Data Analysis. Springer, New York, 2009](ggplot2.pdf).
+* Pour en savoir plus sur l'histoire de [ggplot2](https://en.m.wikipedia.org/wiki/Ggplot2).
+
 
 
