@@ -4,10 +4,6 @@
 <img src="https://rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gray.png" width="100">
 
 
-
-
-# ESD109-Chapter1
-
 ##  Objectifs du cours
 
 -   L’intelligence économique consiste à collecter des données et à les analyser.
@@ -19,9 +15,7 @@
 -   Le modèle de base est le modèle linéaire.
 -   Ses soubassements théoriques seront explicités.
 -   L’estimation des modèles nécessite l’utilisation de logiciels statistiques.
--   Cette utilisation est rendue accessible grâce à 
-
- [**R**](https://www.r-project.org/).
+-   Cette utilisation est rendue accessible grâce à [**R**](https://www.r-project.org/).
 -   Ses  _packages_ en font la référence des chercheurs/consultants.
 -   Il concurrence les standards tels [SAS](https://www.sas.com/en_us/home.html) ou [SPSS](https://www.ibm.com/analytics/spss-statistics-software).
 -   **R**  sera exclusivement utilisé dans ce cours.
