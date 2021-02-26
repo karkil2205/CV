@@ -71,7 +71,7 @@
 
 ## Installation de RStudio
 * Ce premier chapitre est une introduction à la programmation avec **R**.
-* Cette [présentation](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_econometrics_with_R_Book.pdf) a été intégralement réalisée avec [R Notebook]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
+* Cette [présentation](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_Econometrics_with_R.pdf) a été intégralement réalisée avec [R Notebook]("https://rmarkdownwww.rstudio.com/lesson-10.html") de **RStudio**.
 * J'ai repris les codes du livre [KLEIBER, Christian & ZEILEIS, Achim. Applied econometrics with R. Springer Science & Business Media, 2008](https://github.com/karkil2205/ESD109-Chapter1/blob/master/Applied_econometrics_with_R_Book.pdf)
 
 
