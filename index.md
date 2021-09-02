@@ -1,9 +1,10 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_cnam.gif" width="100"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_cnam.gif" width="100"> 
 
 
 
-# Parcours professionnel
+# Parcours académique et professionnel
 
 Kilani, Karim a soutenu sa thèse en sciences économiques intitulée "Dynamique des marches avec preferences adaptatives et produits differencies" au Conservatoire National des Arts et Métiers en 1995 sous la direction de Jacques Lesourne. Il a auparavant été diplômé de l'Ecole Nationale de la Statistique et de l’Administration Economique (ENSAE) et a travaillé pendant deux années dans le domaine de la publicité (J.W. Thompson) et du marketing (SORGEM). Il est aujourd’hui maître de conférences au Cnam et membre du Lirsa. Il travaille sur les thématiques de la théorie des modèles de choix discret en microéconomie et en économétrie.  
 
