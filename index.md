@@ -20,7 +20,7 @@ Kilani, Karim a soutenu sa thèse en sciences économiques intitulée "Dynamique
 - DE PALMA, André and KILANI, Karim. Transition choice probabilities and welfare analysis in additive random utility models. Economic Theory, 2011, vol. 46, no 3, p. 427-454. 
 - DE PALMA, André and KILANI, Karim. Invariance of conditional maximum utility. Journal of Economic Theory, 2007, vol. 132, no 1, p. 137-146. 
 - DE PALMA, André and KILANI, Karim. Switching in the logit. Economics Letters, 2005, vol. 88, no 2, p. 196-202. 
-- DE PALMA, André, KILANI, Karim, et LESOURNE, Jacques. How network externalities affect product variety. Lesourne, J., Orle “an, A.(Eds.), Advances in Self-organization and Evolutionary Economics. Economica, London, 1998, p. 57-76.
+- DE PALMA, André, KILANI, Karim, et LESOURNE, Jacques. How network externalities affect product variety. Lesourne, J., Orléan, A.(Eds.), Advances in Self-organization and Evolutionary Economics. Economica, London, 1998, p. 57-76.
 
 # Conférences internationales notables
 
