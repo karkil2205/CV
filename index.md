@@ -38,7 +38,7 @@ Barcelona, Spain.
 - André de Palma, Karim Kilani. The Optimal of Provision of Products with Income Effects. In : Econometric Society World Congress 2000 Contributed Papers. Econometric Society, 2000.
 
 
-# Working papers notables et articles en cours 
+# Quelques Working papers et articles en cours
 - Paolo DELLE SITE, André de Palma and Karim KILANI. Welfare Inequality for Discrete Choices. To be submtted to the American Economic Review in september 2021. 
 - DELLE SITE, Paolo, KILANI, Karim, and André de Palma. Consumers’ welfare and compensating variation: survey and mode choice application. 2021. THEMA Working Paper n°2021-11 CY Cergy Paris Université, France. Submitted to Transportation Research Part B: Methodologica.
 - Paolo Delle Site, Karim Kilani, Valerio Gatta, Edoardo Marcucci, André de Palma. Estimation of Logit and Probit models using best, worst and best-worst choices
