@@ -9,7 +9,7 @@
 Kilani, Karim a soutenu sa thèse en sciences économiques intitulée "Dynamique des marches avec preferences adaptatives et produits differencies" au Conservatoire National des Arts et Métiers en 1995 sous la direction de Jacques Lesourne. Il a auparavant été diplômé de l'Ecole Nationale de la Statistique et de l’Administration Economique (ENSAE) et a travaillé pendant deux années dans le domaine de la publicité (J.W. Thompson) et du marketing (SORGEM). Il est aujourd’hui maître de conférences au Cnam et membre du Lirsa. Il travaille sur les thématiques de la théorie des modèles de choix discret en microéconomie et en économétrie. Il est referee pour des revues comme Economics Letters et des revues internationales en transport. 
 
  
-#  Publications, revues internationales à comité de lecture
+#  Publications internationales (comité de lecture)
 
 - DELLE SITE, Paolo, KILANI, Karim, GATTA, Valerio, et al. Estimation of consistent Logit and Probit models using best, worst and best–worst choices. Transportation Research Part B: Methodological, 2019, vol. 128, p. 87-106. 
 
