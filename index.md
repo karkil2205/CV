@@ -9,7 +9,7 @@
 Kilani, Karim a soutenu sa thèse en sciences économiques intitulée "Dynamique des marches avec preferences adaptatives et produits differencies" au Conservatoire National des Arts et Métiers en 1995 sous la direction de Jacques Lesourne. Il a auparavant été diplômé de l'Ecole Nationale de la Statistique et de l’Administration Economique (ENSAE) et a travaillé pendant deux années dans le domaine de la publicité (J.W. Thompson) et du marketing (SORGEM). Il est aujourd’hui maître de conférences au Cnam et membre du Lirsa. Il travaille sur les thématiques de la théorie des modèles de choix discret en microéconomie et en économétrie. Il est referee pour des revues comme Economics Letters et des revues internationales en transport. 
 
  
-#  Publications internationales (comité de lecture)
+#  Publications internationales avec comité de lecture
 
 - DELLE SITE, Paolo, KILANI, Karim, GATTA, Valerio, et al. Estimation of consistent Logit and Probit models using best, worst and best–worst choices. Transportation Research Part B: Methodological, 2019, vol. 128, p. 87-106. 
 
@@ -22,7 +22,7 @@ Kilani, Karim a soutenu sa thèse en sciences économiques intitulée "Dynamique
 - DE PALMA, André and KILANI, Karim. Switching in the logit. Economics Letters, 2005, vol. 88, no 2, p. 196-202. 
 - DE PALMA, André, KILANI, Karim, et LESOURNE, Jacques. How network externalities affect product variety. Lesourne, J., Orléan, A.(Eds.), Advances in Self-organization and Evolutionary Economics. Economica, London, 1998, p. 57-76.
 
-# Conférences internationales notables
+# Conférences internationales avec comité de lecture (les plus notables)
 
  - Paolo DELLE SITE, André de Palma and Karim KILANI. Welfare Inequality for discrete choices. ITEA annual conference and school on transportation economics. Rome 2021.
  - André de Palma, Karim Kilani. Invertible Additive Random Utility models. Workshop on Discrete choice models Lausanne, April 2019.
