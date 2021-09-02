@@ -22,22 +22,25 @@ Kilani, Karim a soutenu sa thèse en sciences économiques intitulée "Dynamique
 - DE PALMA, André and KILANI, Karim. Switching in the logit. Economics Letters, 2005, vol. 88, no 2, p. 196-202. 
 - DE PALMA, André, KILANI, Karim, et LESOURNE, Jacques. How network externalities affect product variety. Lesourne, J., Orle “an, A.(Eds.), Advances in Self-organization and Evolutionary Economics. Economica, London, 1998, p. 57-76.
 
-# Conférences internationales
+# Conférences internationales notables
 
+ - Paolo DELLE SITE, André de Palma and Karim KILANI. Welfare Inequality for discrete choices. ITEA annual conference and school on transportation economics. Rome 2021.
+ - André de Palma, Karim Kilani. Invertible Additive Random Utility models. Workshop on Discrete choice models Lausanne, April 2019.
+
+- André de Palma, Karim Kilani. A Complete Characterization of Additive Random Utility Models satisfying IIA. In : International Choice Modelling Conference 2019.
 - Estimation of Logit and Probit models using best, worst and best-worst choices ITEA annual conference and school on transportation economicsHong Kong 2018
 - Welfare measurement in discrete choice models. ITEA Annual Conference and School on Transportation Economics/ 
 Universidad de Chile, Santiago - June 2016.
 - Lower-order choices probabilities and welfare in random utility models. ITEA Annual Conference and School on Transportation Economics. June 2017.
 Barcelona, Spain.
 - Lower-Order Choices in Random Utility Models. ITEA Annual Conference and Summer School on Transportation Economics, Toulouse, France. June 2014.
-- DE PALMA, André et KILANI, Karim. Distribution of compensating variations for discrete choice models. In : European Economics Association Annual Congress, Venice. 2002.
-- André de Palma, Karim Kilani. A Complete Characterization ofAdditive Random Utility Models satisfying IIA. In : International Choice Modelling Conference 2019.
+- DE PALMA, André and KILANI, Karim. Distribution of compensating variations for discrete choice models. In : European Economics Association Annual Congress, Venice. 2002.
 - André de Palma, Karim Kilani. The Optimal of Provision of Products with Income Effects. In : Econometric Society World Congress 2000 Contributed Papers. Econometric Society, 2000.
 
 
-# Working papers et articles en cours
-
-- DELLE SITE, Paolo, KILANI, Karim, GATTA, and André de Palma. Consumers’ welfare and compensating variation: survey and mode choice application. 2021. THEMA Working Paper n°2021-11 CY Cergy Paris Université, France. Submitted to Transportation Research Part B: Methodologica.
+# Working papers notables et articles en cours 
+- Paolo DELLE SITE, André de Palma and Karim KILANI. Welfare Inequality for Discrete Choices. To be submtted to the American Economic Review in september 2021. 
+- DELLE SITE, Paolo, KILANI, Karim, and André de Palma. Consumers’ welfare and compensating variation: survey and mode choice application. 2021. THEMA Working Paper n°2021-11 CY Cergy Paris Université, France. Submitted to Transportation Research Part B: Methodologica.
 - Paolo Delle Site, Karim Kilani, Valerio Gatta, Edoardo Marcucci, André de Palma. Estimation of Logit and Probit models using best, worst and best-worst choices
 2018. https://hal.archives-ouvertes.fr/hal-01953581v1
 - André de Palma, Karim Kilani. Ordered choice probabilities in random utility models. 2015. https://hal.archives-ouvertes.fr/hal-00690299
