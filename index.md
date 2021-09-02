@@ -6,7 +6,7 @@
 
 # Parcours académique et professionnel
 
-Kilani, Karim a soutenu sa thèse en sciences économiques intitulée "Dynamique des marches avec preferences adaptatives et produits differencies" au Conservatoire National des Arts et Métiers en 1995 sous la direction de Jacques Lesourne. Il a auparavant été diplômé de l'Ecole Nationale de la Statistique et de l’Administration Economique (ENSAE) et a travaillé pendant deux années dans le domaine de la publicité (J.W. Thompson) et du marketing (SORGEM). Il est aujourd’hui maître de conférences au Cnam et membre du Lirsa. Il travaille sur les thématiques de la théorie des modèles de choix discret en microéconomie et en économétrie.  
+Kilani, Karim a soutenu sa thèse en sciences économiques intitulée "Dynamique des marches avec preferences adaptatives et produits differencies" au Conservatoire National des Arts et Métiers en 1995 sous la direction de Jacques Lesourne. Il a auparavant été diplômé de l'Ecole Nationale de la Statistique et de l’Administration Economique (ENSAE) et a travaillé pendant deux années dans le domaine de la publicité (J.W. Thompson) et du marketing (SORGEM). Il est aujourd’hui maître de conférences au Cnam et membre du Lirsa. Il travaille sur les thématiques de la théorie des modèles de choix discret en microéconomie et en économétrie. Il est referee pour des revues comme Economics Letters et des revues internationales en transport. 
 
  
 #  Publications, revues internationales à comité de lecture
@@ -45,8 +45,3 @@ Barcelona, Spain.
 - André de Palma, Karim Kilani. Transition choice probabilities and welfare in ARUM's. 2009. https://hal.archives-ouvertes.fr/hal-00417493v1
 - André de Palma, Karim Kilani. Lower-order logsums. 2012. https://hal.archives-ouvertes.fr/hal-00690299v1
 - DE PALMA, André, KILANI, Karim, et al. Compensating Variation for Discrete Choice Models. THEMA (THéorie Economique, Modélisation et Applications), Université de Cergy-Pontoise, 2003.
-
-
-
-
-
